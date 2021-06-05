@@ -7,7 +7,7 @@
 
 > *_Increasing knowledge of yesterday_*
 
-[lien]:www.linkedin.com/in/1sal/
+[lien]:https://www.linkedin.com/in/1sal/
 <!---
 salomon-dhn/salomon-dhn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
